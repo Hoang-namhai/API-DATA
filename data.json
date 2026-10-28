@@ -5,7 +5,7 @@
     "StatusAll": "Server hoạt động bình thường"
   },
   {
-    "Active": false,
+    "Active": true,
     "HWID": "HWID-17146369151793212675",
     "Key": "VIP-KING-IXKB",
     "Name": "Tuấn Anh",
