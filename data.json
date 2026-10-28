@@ -1,0 +1,15 @@
+[
+  {
+    "Server": true,
+    "Free": false,
+    "StatusAll": "Server hoạt động bình thường"
+  },
+  {
+    "Key": "VIP-KING-2026",
+    "Name": "Nguyen Van A",
+    "HWID": "",
+    "Active": true,
+    "end_date": "31-12-2026",
+    "vip": true
+  }
+]
