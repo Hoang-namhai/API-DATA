@@ -27,5 +27,13 @@
     "Active": true,
     "end_date": "13-11-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-CQQI",
+    "Name": "Lập",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-12-2026",
+    "vip": true
   }
 ]
