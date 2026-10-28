@@ -19,5 +19,13 @@
     "Active": true,
     "end_date": "29-10-2027",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-IXKB",
+    "Name": "Tuấn Anh",
+    "HWID": "",
+    "Active": true,
+    "end_date": "13-11-2026",
+    "vip": true
   }
 ]
