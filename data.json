@@ -11,5 +11,13 @@
     "Name": "Nguyen Van A",
     "end_date": "31-12-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-AKLN",
+    "Name": "ADMIM",
+    "HWID": "",
+    "Active": true,
+    "end_date": "29-10-2027",
+    "vip": true
   }
 ]
