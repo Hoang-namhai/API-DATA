@@ -5,26 +5,26 @@
     "StatusAll": "Server hoạt động bình thường"
   },
   {
+    "Active": true,
+    "HWID": "HWID-17146369151793212675",
     "Key": "VIP-KING-IXKB",
     "Name": "Tuấn Anh",
-    "HWID": "",
-    "Active": true,
     "end_date": "13-11-2026",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-ADO9",
     "Name": "Ninh",
-    "HWID": "",
-    "Active": true,
     "end_date": "13-11-2026",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-CQQI",
     "Name": "Lập",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-12-2026",
     "vip": true
   }
