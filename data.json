@@ -3,21 +3,5 @@
     "Free": false,
     "Server": true,
     "StatusAll": "Sever Đang Bảo Trì !!!"
-  },
-  {
-    "Active": true,
-    "HWID": "HWID-1793290168-1957747793",
-    "Key": "Y3XM6",
-    "Name": "HẢI",
-    "end_date": "28-12-2026",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "HWID-1793283967-1714636915",
-    "Key": "VIP-KING-NOEG",
-    "Name": "ADMIN",
-    "end_date": "31-12-2030",
-    "vip": true
   }
 ]
