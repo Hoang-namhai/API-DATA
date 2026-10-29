@@ -19,5 +19,13 @@
     "Name": "jfgioooh",
     "end_date": "02-07-2027",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-1A9A",
+    "Name": "ADMIN TEST",
+    "HWID": "",
+    "Active": true,
+    "end_date": "29-10-2027",
+    "vip": true
   }
 ]
