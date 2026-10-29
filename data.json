@@ -1,8 +1,8 @@
 [
   {
-    "Free": false,
+    "Free": true,
     "Server": false,
-    "StatusAll": "Server hoạt động bình thường"
+    "StatusAll": "Sever Đang Bảo Trì !!!"
   },
   {
     "Active": true,
