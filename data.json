@@ -21,18 +21,18 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "HWID-17146369151793212675",
     "Key": "VIP-KING-1GN3",
     "Name": "VIP",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2026",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-2OUT",
     "Name": "TEST",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-10-2026",
     "vip": true
   }
