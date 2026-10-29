@@ -19,5 +19,13 @@
     "Name": "Lập",
     "end_date": "28-12-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-1GN3",
+    "Name": "VIP",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-11-2026",
+    "vip": true
   }
 ]
