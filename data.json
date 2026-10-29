@@ -27,5 +27,13 @@
     "Active": true,
     "end_date": "28-11-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-2OUT",
+    "Name": "TEST",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-10-2026",
+    "vip": true
   }
 ]
