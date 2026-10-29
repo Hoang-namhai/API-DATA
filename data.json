@@ -19,5 +19,13 @@
     "Name": "ADMIN2",
     "end_date": "28-11-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-FRSI",
+    "Name": "TEST",
+    "HWID": "",
+    "Active": true,
+    "end_date": "29-11-2026",
+    "vip": true
   }
 ]
