@@ -21,10 +21,10 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "a10d0260452ecbc199e948397ebd3816",
     "Key": "VIP-KING-FRSI",
     "Name": "TEST",
-    "HWID": "",
-    "Active": true,
     "end_date": "29-11-2026",
     "vip": true
   }
