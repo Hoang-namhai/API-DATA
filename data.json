@@ -14,18 +14,10 @@
   },
   {
     "Active": true,
-    "HWID": "HWID-1793248785-1714636915",
+    "HWID": "",
     "Key": "MF8KN",
     "Name": "jfgioooh",
     "end_date": "02-07-2027",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "HWID-1793248785-1714636915",
-    "Key": "VIP-KING-1A9A",
-    "Name": "ADMIN TEST",
-    "end_date": "29-10-2027",
     "vip": true
   }
 ]
