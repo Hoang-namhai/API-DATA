@@ -3,5 +3,21 @@
     "Free": false,
     "Server": true,
     "StatusAll": "Sever Đang Bảo Trì !!!"
+  },
+  {
+    "Key": "VIP-KING-43XZ",
+    "Name": "ADMIN 1",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-11-2026",
+    "vip": true
+  },
+  {
+    "Key": "VIP-KING-4XMX",
+    "Name": "ADMIN2",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-11-2026",
+    "vip": true
   }
 ]
