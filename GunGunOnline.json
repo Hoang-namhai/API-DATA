@@ -5,10 +5,10 @@
     "StatusAll": "Sever Đang Bảo Trì !!!"
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN VIP",
-    "HWID": "",
-    "Active": true,
     "end_date": "31-12-2099",
     "vip": true
   }
