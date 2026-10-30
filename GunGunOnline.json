@@ -19,5 +19,13 @@
     "Name": "Test",
     "end_date": "29-11-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-SOXU",
+    "Name": "66666",
+    "HWID": "",
+    "Active": true,
+    "end_date": "14-11-2026",
+    "vip": true
   }
 ]
