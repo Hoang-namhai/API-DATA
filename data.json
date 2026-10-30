@@ -27,13 +27,5 @@
     "Name": "TEST",
     "end_date": "29-11-2026",
     "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "041634795c77960c",
-    "Key": "VIP-KING-7NBC",
-    "Name": "HẢI",
-    "end_date": "25-09-2026",
-    "vip": true
   }
 ]
