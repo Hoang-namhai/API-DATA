@@ -5,7 +5,7 @@
     "StatusAll": "Sever Đang Bảo Trì !!!"
   },
   {
-    "Active": false,
+    "Active": true,
     "HWID": "041634795c77960c",
     "Key": "VIP-KING-XZE4",
     "Name": "ADMIN",
