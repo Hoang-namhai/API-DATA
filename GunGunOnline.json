@@ -11,21 +11,5 @@
     "Name": "ADMIN",
     "end_date": "29-12-2026",
     "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "",
-    "Key": "VIP-KING-N4N3",
-    "Name": "Test",
-    "end_date": "29-11-2026",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "041634795c77960c",
-    "Key": "VIP-KING-SOXU",
-    "Name": "66666",
-    "end_date": "14-11-2026",
-    "vip": true
   }
 ]
