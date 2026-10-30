@@ -29,11 +29,11 @@
     "vip": true
   },
   {
-    "Active": false,
+    "Active": true,
     "HWID": "041634795c77960c",
     "Key": "VIP-KING-7NBC",
     "Name": "HẢI",
-    "end_date": "30-10-2027",
+    "end_date": "25-09-2026",
     "vip": true
   }
 ]
