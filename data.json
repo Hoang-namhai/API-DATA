@@ -11,5 +11,13 @@
     "Name": "ADMIN",
     "end_date": "29-12-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-N4N3",
+    "Name": "Test",
+    "HWID": "",
+    "Active": true,
+    "end_date": "29-11-2026",
+    "vip": true
   }
 ]
