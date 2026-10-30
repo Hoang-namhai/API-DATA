@@ -13,10 +13,10 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "a10d0260452ecbc199e948397ebd3816",
     "Key": "VIP-KING-N4N3",
     "Name": "Test",
-    "HWID": "",
-    "Active": true,
     "end_date": "29-11-2026",
     "vip": true
   }
