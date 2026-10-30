@@ -6,30 +6,6 @@
   },
   {
     "Active": true,
-    "HWID": "4cd0c5f98971c5c17a92795b1f7df0a2",
-    "Key": "VIP-KING-43XZ",
-    "Name": "ADMIN 1",
-    "end_date": "28-11-2026",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "983e797ab2088be7ed97e963d1642dac",
-    "Key": "VIP-KING-4XMX",
-    "Name": "ADMIN2",
-    "end_date": "28-11-2026",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "a10d0260452ecbc199e948397ebd3816",
-    "Key": "VIP-KING-FRSI",
-    "Name": "TEST",
-    "end_date": "29-11-2026",
-    "vip": true
-  },
-  {
-    "Active": true,
     "HWID": "041634795c77960c",
     "Key": "VIP-KING-XZE4",
     "Name": "ADMIN",
