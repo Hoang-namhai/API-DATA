@@ -19,5 +19,13 @@
     "Name": "Lê Công Bình",
     "end_date": "28-01-2027",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-YC8N",
+    "Name": "ok",
+    "HWID": "",
+    "Active": true,
+    "end_date": "30-12-2026",
+    "vip": true
   }
 ]
