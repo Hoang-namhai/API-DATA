@@ -13,26 +13,26 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "5fb58f44fd3e9346",
     "Key": "VIP-KING-6WQ0",
     "Name": "Tấn Phát 1",
-    "HWID": "",
-    "Active": true,
     "end_date": "05-11-2027",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-OEA3",
     "Name": "Tấn Phát 2",
-    "HWID": "",
-    "Active": true,
     "end_date": "05-11-2027",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-07FW",
     "Name": "Tấn Phát 3",
-    "HWID": "",
-    "Active": true,
     "end_date": "05-11-2027",
     "vip": true
   }
