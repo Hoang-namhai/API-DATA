@@ -11,5 +11,29 @@
     "Name": "ADMIN VIP",
     "end_date": "31-12-2099",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-6WQ0",
+    "Name": "Tấn Phát 1",
+    "HWID": "",
+    "Active": true,
+    "end_date": "05-11-2027",
+    "vip": true
+  },
+  {
+    "Key": "VIP-KING-OEA3",
+    "Name": "Tấn Phát 2",
+    "HWID": "",
+    "Active": true,
+    "end_date": "05-11-2026",
+    "vip": true
+  },
+  {
+    "Key": "VIP-KING-07FW",
+    "Name": "Tấn Phát 3",
+    "HWID": "",
+    "Active": true,
+    "end_date": "05-11-2027",
+    "vip": true
   }
 ]
