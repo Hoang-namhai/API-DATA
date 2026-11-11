@@ -11,5 +11,13 @@
     "Name": "ADMIN VIP",
     "end_date": "31-12-2099",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-AXZS",
+    "Name": "kkk",
+    "HWID": "",
+    "Active": true,
+    "end_date": "10-01-2027",
+    "vip": true
   }
 ]
