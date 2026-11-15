@@ -27,5 +27,13 @@
     "Name": "ok",
     "end_date": "30-12-2026",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-ADMIN",
+    "Name": "ADMIN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "15-11-2027",
+    "vip": true
   }
 ]
