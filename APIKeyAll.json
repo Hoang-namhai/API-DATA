@@ -30,5 +30,13 @@
     "end_date": "16-11-2027",
     "package": "com.xpgh.vnxxzy",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-9CCF",
+    "Name": "ADMIN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "16-11-2027",
+    "vip": true
   }
 ]
