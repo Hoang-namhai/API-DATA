@@ -6,47 +6,11 @@
   },
   {
     "Active": true,
-    "HWID": "e6db15a72b3d3fb4dddbb0e432dd1b60",
-    "Key": "VIP-KING-XZE4",
-    "Name": "ADMIN",
-    "end_date": "28-01-2027",
-    "vip": true,
-    "package": "com.bytingames.realmdefense"
-  },
-  {
-    "Active": true,
-    "HWID": "dbe988bc4ef8d18b193f9a115276d210",
-    "Key": "VIP-KING-XBMF",
-    "Name": "Lê Công Bình",
-    "end_date": "28-01-2027",
-    "vip": true,
-    "package": "com.bytingames.realmdefense"
-  },
-  {
-    "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
-    "Key": "VIP-KING-YC8N",
-    "Name": "ok",
-    "end_date": "30-12-2026",
-    "vip": true,
-    "package": "com.bytingames.realmdefense"
-  },
-  {
-    "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
+    "HWID": "",
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN",
     "end_date": "15-11-2027",
     "vip": true,
     "package": "com.bytingames.realmdefense"
-  },
-  {
-    "Active": true,
-    "HWID": "",
-    "Key": "VIP-KING-NEW1",
-    "Name": "Khách Mới",
-    "end_date": "28-01-2027",
-    "vip": true,
-    "package": ""
   }
 ]
