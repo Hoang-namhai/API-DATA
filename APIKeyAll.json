@@ -5,11 +5,12 @@
     "StatusAll": "Sever Đang Bảo Trì !!!"
   },
   {
+    "Active": true,
+    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN",
-    "HWID": "",
-    "Active": true,
     "end_date": "16-11-2027",
+    "package": "com.babeltimeus.legendstd",
     "vip": true
   }
 ]
