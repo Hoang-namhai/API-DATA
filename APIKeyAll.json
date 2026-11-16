@@ -3,32 +3,5 @@
     "Free": false,
     "Server": true,
     "StatusAll": "Sever Đang Bảo Trì !!!"
-  },
-  {
-    "Active": true,
-    "HWID": "",
-    "Key": "VIP-KING-ADMIN",
-    "Name": "ADMIN",
-    "end_date": "15-11-2027",
-    "package": "com.bytingames.realmdefense",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "4cd0c5f98971c5c17a92795b1f7df0a2",
-    "Key": "VIP-KING-Q0E7",
-    "Name": "Test",
-    "end_date": "16-11-2027",
-    "package": "com.xpgh.vnxxzy",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
-    "Key": "VIP-KING-FPXY",
-    "Name": "OK",
-    "end_date": "15-01-2027",
-    "package": "com.babeltimeus.legendstd",
-    "vip": true
   }
 ]
