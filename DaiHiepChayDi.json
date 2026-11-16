@@ -30,10 +30,11 @@
   },
   {
     "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
+    "HWID": "",
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN",
     "end_date": "15-11-2027",
-    "vip": true
+    "vip": true,
+    "package": ""
   }
 ]
