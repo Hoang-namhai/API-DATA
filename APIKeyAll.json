@@ -3,5 +3,13 @@
     "Free": false,
     "Server": true,
     "StatusAll": "Sever Đang Bảo Trì !!!"
+  },
+  {
+    "Key": "VIP-KING-ADMIN",
+    "Name": "ADMIN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "16-11-2027",
+    "vip": true
   }
 ]
