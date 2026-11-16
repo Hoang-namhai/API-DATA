@@ -47,5 +47,13 @@
     "Active": true,
     "end_date": "18-11-2026",
     "vip": false
+  },
+  {
+    "Key": "VIP-KING-5GK6",
+    "Name": "Nước Ngoài",
+    "HWID": "",
+    "Active": true,
+    "end_date": "23-11-2026",
+    "vip": false
   }
 ]
