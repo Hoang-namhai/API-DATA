@@ -10,7 +10,8 @@
     "Key": "VIP-KING-XZE4",
     "Name": "ADMIN",
     "end_date": "28-01-2027",
-    "vip": true
+    "vip": true,
+    "package": "com.bytingames.realmdefense"
   },
   {
     "Active": true,
@@ -18,7 +19,8 @@
     "Key": "VIP-KING-XBMF",
     "Name": "Lê Công Bình",
     "end_date": "28-01-2027",
-    "vip": true
+    "vip": true,
+    "package": "com.bytingames.realmdefense"
   },
   {
     "Active": true,
@@ -26,7 +28,8 @@
     "Key": "VIP-KING-YC8N",
     "Name": "ok",
     "end_date": "30-12-2026",
-    "vip": true
+    "vip": true,
+    "package": "com.bytingames.realmdefense"
   },
   {
     "Active": true,
@@ -34,6 +37,16 @@
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN",
     "end_date": "15-11-2027",
-    "vip": true
+    "vip": true,
+    "package": "com.bytingames.realmdefense"
+  },
+  {
+    "Active": true,
+    "HWID": "",
+    "Key": "VIP-KING-NEW1",
+    "Name": "Khách Mới",
+    "end_date": "28-01-2027",
+    "vip": true,
+    "package": ""
   }
 ]
