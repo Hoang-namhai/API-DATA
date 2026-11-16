@@ -21,5 +21,13 @@
     "end_date": "16-11-2027",
     "package": "perfectplan.warring.kingdom.btd.epic.tower.defense",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-DHCD",
+    "Name": "ADMIN 3",
+    "HWID": "",
+    "Active": true,
+    "end_date": "16-11-2027",
+    "vip": true
   }
 ]
