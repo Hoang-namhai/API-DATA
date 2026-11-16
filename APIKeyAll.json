@@ -15,11 +15,11 @@
   },
   {
     "Active": true,
-    "HWID": "",
+    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
     "Key": "VIP-KING-LIGD",
     "Name": "ADMIN2",
     "end_date": "16-11-2027",
-    "package": "",
+    "package": "com.babeltimeus.legendstd",
     "vip": true
   },
   {
