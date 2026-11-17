@@ -16,15 +16,6 @@
   {
     "Active": true,
     "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
-    "Key": "VIP-KING-LIGD",
-    "Name": "ADMIN2",
-    "end_date": "16-11-2027",
-    "package": "com.babeltimeus.legendstd",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
     "Key": "VIP-KING-DHCD",
     "Name": "ADMIN 3",
     "end_date": "16-11-2027",
@@ -55,15 +46,6 @@
     "Name": "EN",
     "end_date": "23-11-2026",
     "vip": false
-  },
-  {
-    "Active": true,
-    "HWID": "041634795c77960c",
-    "Key": "VIP-KING-ZOOBA",
-    "Name": "ADMIN",
-    "end_date": "17-11-2027",
-    "package": "com.wildlife.games.battle.royale.free.zooba",
-    "vip": true
   },
   {
     "Key": "VIP-KING-JPAW",
