@@ -49,10 +49,11 @@
   },
   {
     "Active": true,
-    "HWID": "",
+    "HWID": "1cc344aa932592da",
     "Key": "VIP-KING-JPAW",
     "Name": "EN",
     "end_date": "24-11-2026",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": false
   },
   {
