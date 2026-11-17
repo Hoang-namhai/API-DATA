@@ -44,7 +44,7 @@
     "Active": true,
     "HWID": "",
     "Key": "VIP-KING-5IX1",
-    "Name": "Khách Nước Ngoài",
+    "Name": "EN",
     "end_date": "18-11-2026",
     "vip": false
   },
@@ -52,7 +52,7 @@
     "Active": true,
     "HWID": "",
     "Key": "VIP-KING-5GK6",
-    "Name": "Nước Ngoài",
+    "Name": "EN",
     "end_date": "23-11-2026",
     "vip": false
   },
