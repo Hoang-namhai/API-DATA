@@ -80,5 +80,13 @@
     "Active": true,
     "end_date": "24-11-2026",
     "vip": false
+  },
+  {
+    "Key": "VIP-KING-ZXFW",
+    "Name": "EN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "24-11-2026",
+    "vip": false
   }
 ]
