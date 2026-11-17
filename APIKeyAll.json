@@ -55,5 +55,13 @@
     "Active": true,
     "end_date": "23-11-2026",
     "vip": false
+  },
+  {
+    "Key": "VIP-KING-ZOOBA",
+    "Name": "ADMIN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "17-11-2027",
+    "vip": true
   }
 ]
