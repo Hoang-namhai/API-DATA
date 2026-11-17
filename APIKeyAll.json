@@ -41,27 +41,28 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-5IX1",
     "Name": "Khách Nước Ngoài",
-    "HWID": "",
-    "Active": true,
     "end_date": "18-11-2026",
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-5GK6",
     "Name": "Nước Ngoài",
-    "HWID": "",
-    "Active": true,
     "end_date": "23-11-2026",
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-ZOOBA",
     "Name": "ADMIN",
-    "HWID": "",
-    "Active": true,
     "end_date": "17-11-2027",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": true
   }
 ]
