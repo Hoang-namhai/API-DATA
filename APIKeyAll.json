@@ -48,26 +48,27 @@
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-JPAW",
     "Name": "EN",
-    "HWID": "",
-    "Active": true,
     "end_date": "24-11-2026",
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "a583263ade71e948",
     "Key": "VIP-KING-6Y2R",
     "Name": "EN",
-    "HWID": "",
-    "Active": true,
     "end_date": "24-11-2026",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-ZXFW",
     "Name": "EN",
-    "HWID": "",
-    "Active": true,
     "end_date": "24-11-2026",
     "vip": false
   }
