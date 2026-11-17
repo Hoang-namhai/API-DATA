@@ -73,11 +73,12 @@
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-9ZG5",
     "Name": "VN",
-    "HWID": "",
-    "Active": true,
     "end_date": "17-12-2026",
+    "package": "com.mastobaev.snooker",
     "vip": true
   }
 ]
