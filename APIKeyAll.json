@@ -64,5 +64,21 @@
     "end_date": "17-11-2027",
     "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-JPAW",
+    "Name": "EN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "24-11-2026",
+    "vip": false
+  },
+  {
+    "Key": "VIP-KING-6Y2R",
+    "Name": "EN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "24-11-2026",
+    "vip": false
   }
 ]
