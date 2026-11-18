@@ -41,10 +41,11 @@
   },
   {
     "Active": true,
-    "HWID": "",
+    "HWID": "b527fe46d2150ed29029bc13f82c699d",
     "Key": "VIP-KING-5GK6",
     "Name": "EN",
     "end_date": "23-11-2026",
+    "package": "com.babeltimeus.legendstd",
     "vip": false
   },
   {
