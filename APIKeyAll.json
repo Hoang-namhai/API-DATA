@@ -75,5 +75,13 @@
     "end_date": "17-12-2026",
     "package": "com.mastobaev.snooker",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-HZOD",
+    "Name": "M Lem M Lem",
+    "HWID": "",
+    "Active": true,
+    "end_date": "21-11-2026",
+    "vip": false
   }
 ]
