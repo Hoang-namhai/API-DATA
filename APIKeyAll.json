@@ -60,10 +60,11 @@
   },
   {
     "Active": true,
-    "HWID": "",
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-ZXFW",
     "Name": "EN",
     "end_date": "24-11-2026",
+    "package": "com.ynfx.zqyzwd",
     "vip": false
   },
   {
