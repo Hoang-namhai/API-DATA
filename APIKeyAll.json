@@ -77,19 +77,20 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-HZOD",
     "Name": "M Lem M Lem",
-    "HWID": "",
-    "Active": true,
     "end_date": "21-11-2026",
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "9732c34da1f9f046",
     "Key": "VIP-KING-RVF9",
     "Name": "EN",
-    "HWID": "",
-    "Active": true,
     "end_date": "27-11-2026",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": false
   }
 ]
