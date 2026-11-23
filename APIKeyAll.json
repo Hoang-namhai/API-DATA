@@ -92,5 +92,13 @@
     "Active": true,
     "end_date": "30-11-2026",
     "vip": false
+  },
+  {
+    "Key": "VIP-KING-2T16",
+    "Name": "EN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "30-11-2026",
+    "vip": false
   }
 ]
