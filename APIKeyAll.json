@@ -86,11 +86,12 @@
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "0cd5e14595ed017b",
     "Key": "VIP-KING-1L5U",
     "Name": "D Tâm",
-    "HWID": "",
-    "Active": true,
     "end_date": "30-11-2026",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": false
   }
 ]
