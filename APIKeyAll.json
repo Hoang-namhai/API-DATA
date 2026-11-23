@@ -6,33 +6,6 @@
   },
   {
     "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
-    "Key": "VIP-KING-ADMIN",
-    "Name": "ADMIN",
-    "end_date": "16-11-2027",
-    "package": "com.babeltimeus.legendstd",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "4ba2e48b5efebaceaf2beb3c9b8493d5",
-    "Key": "VIP-KING-DHCD",
-    "Name": "ADMIN 3",
-    "end_date": "16-11-2027",
-    "package": "com.xpgh.vnxxzy",
-    "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "041634795c77960c",
-    "Key": "VIP-KING-9CCF",
-    "Name": "ADMIN",
-    "end_date": "16-11-2027",
-    "package": "com.mycompany.application",
-    "vip": true
-  },
-  {
-    "Active": true,
     "HWID": "b527fe46d2150ed29029bc13f82c699d",
     "Key": "VIP-KING-5GK6",
     "Name": "EN",
