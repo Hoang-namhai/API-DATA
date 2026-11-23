@@ -68,11 +68,12 @@
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-FIREZONE",
     "Name": "ADMIN",
-    "HWID": "",
-    "Active": true,
     "end_date": "23-11-2027",
+    "package": "com.ynfx.zqyzwd",
     "vip": true
   }
 ]
