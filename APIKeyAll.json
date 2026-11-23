@@ -75,5 +75,13 @@
     "end_date": "23-11-2027",
     "package": "com.ynfx.zqyzwd",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-ZOOBA",
+    "Name": "ADMIN",
+    "HWID": "",
+    "Active": true,
+    "end_date": "23-11-2027",
+    "vip": true
   }
 ]
