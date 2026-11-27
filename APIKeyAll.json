@@ -57,5 +57,13 @@
     "end_date": "28-11-2027",
     "package": "com.vgames.gungunonline",
     "vip": true
+  },
+  {
+    "Key": "VIP-KING-DUNGEON",
+    "Name": "AD",
+    "HWID": "",
+    "Active": true,
+    "end_date": "28-11-2027",
+    "vip": true
   }
 ]
