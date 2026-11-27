@@ -112,11 +112,12 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-GUNGUN",
     "Name": "ADMIN",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
+    "package": "com.vgames.gungunonline",
     "vip": true
   }
 ]
