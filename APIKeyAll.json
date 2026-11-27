@@ -103,11 +103,12 @@
     "vip": false
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-ADMIN",
     "Name": "ADMIN",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
+    "package": "com.mycompany.application",
     "vip": true
   }
 ]
