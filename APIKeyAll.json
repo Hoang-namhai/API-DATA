@@ -59,11 +59,12 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "041634795c77960c",
     "Key": "VIP-KING-DUNGEON",
     "Name": "AD",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
+    "package": "com.frozenfrog.Dungeon2",
     "vip": true
   }
 ]
