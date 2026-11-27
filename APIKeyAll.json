@@ -6,57 +6,12 @@
   },
   {
     "Active": true,
-    "HWID": "b527fe46d2150ed29029bc13f82c699d",
-    "Key": "VIP-KING-5GK6",
-    "Name": "EN",
-    "end_date": "23-11-2026",
-    "package": "com.babeltimeus.legendstd",
-    "vip": false
-  },
-  {
-    "Active": true,
-    "HWID": "1cc344aa932592da",
-    "Key": "VIP-KING-JPAW",
-    "Name": "EN",
-    "end_date": "24-11-2026",
-    "package": "com.wildlife.games.battle.royale.free.zooba",
-    "vip": false
-  },
-  {
-    "Active": true,
-    "HWID": "a583263ade71e948",
-    "Key": "VIP-KING-6Y2R",
-    "Name": "EN",
-    "end_date": "24-11-2026",
-    "package": "com.wildlife.games.battle.royale.free.zooba",
-    "vip": false
-  },
-  {
-    "Active": true,
-    "HWID": "041634795c77960c",
-    "Key": "VIP-KING-ZXFW",
-    "Name": "EN",
-    "end_date": "24-11-2026",
-    "package": "com.ynfx.zqyzwd",
-    "vip": false
-  },
-  {
-    "Active": true,
     "HWID": "041634795c77960c",
     "Key": "VIP-KING-9ZG5",
     "Name": "VN",
     "end_date": "17-12-2026",
     "package": "com.mastobaev.snooker",
     "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "9732c34da1f9f046",
-    "Key": "VIP-KING-RVF9",
-    "Name": "EN",
-    "end_date": "27-11-2026",
-    "package": "com.wildlife.games.battle.royale.free.zooba",
-    "vip": false
   },
   {
     "Active": true,
@@ -84,23 +39,6 @@
     "end_date": "23-11-2027",
     "package": "com.wildlife.games.battle.royale.free.zooba",
     "vip": true
-  },
-  {
-    "Active": true,
-    "HWID": "",
-    "Key": "VIP-KING-2B2X",
-    "Name": "EN",
-    "end_date": "30-11-2026",
-    "vip": false
-  },
-  {
-    "Active": true,
-    "HWID": "78e92c064a1ab70c",
-    "Key": "VIP-KING-2T16",
-    "Name": "EN",
-    "end_date": "30-11-2026",
-    "package": "com.wildlife.games.battle.royale.free.zooba",
-    "vip": false
   },
   {
     "Active": true,
