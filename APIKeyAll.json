@@ -78,10 +78,11 @@
   },
   {
     "Active": true,
-    "HWID": "",
+    "HWID": "2d7ebf1dd998def1",
     "Key": "VIP-KING-UYDG",
     "Name": "Tấn Phát 2",
     "end_date": "28-11-2027",
+    "package": "com.frozenfrog.Dungeon2",
     "vip": true
   },
   {
