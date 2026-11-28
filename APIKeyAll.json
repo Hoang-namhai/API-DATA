@@ -68,26 +68,27 @@
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "5fb58f44fd3e9346",
     "Key": "VIP-KING-SWA7",
     "Name": "Tấn Phát 1",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
+    "package": "com.frozenfrog.Dungeon2",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-UYDG",
     "Name": "Tấn Phát 2",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
     "vip": true
   },
   {
+    "Active": true,
+    "HWID": "",
     "Key": "VIP-KING-6KJ5",
     "Name": "Tấn Phát 3",
-    "HWID": "",
-    "Active": true,
     "end_date": "28-11-2027",
     "vip": true
   }
